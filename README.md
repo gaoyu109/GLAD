@@ -8,9 +8,11 @@ This seminar is a beginner’s guide to data analysis with Pandas dataframe, thr
 Check out the official pandas website at http://pandas.pydata.org/
 
 Pandas should already be part of your anaconda installation. If not, simply run:
+
 $ conda install pandas
 
 Please install Jupyter lab if you want to code along(Jupyter Notebook works, too). 
+
 $ conda install -c conda-forge jupyterlab
 
 The sample data file can be found at: 
