@@ -15,3 +15,4 @@ Please install Jupyter lab if you want to code along(Jupyter Notebook works, too
 $ conda install -c conda-forge jupyterlab
 
 The sample data file can be found at: 
+https://drive.google.com/file/d/1Zf2sr8kIV0yWTM62jiPAulIPaONVEMIp/view?usp=sharing
